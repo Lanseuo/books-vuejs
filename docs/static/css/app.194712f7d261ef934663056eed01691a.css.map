@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.194712f7d261ef934663056eed01691a.css"],"names":[],"mappings":"AACA,YACE,cAAe,AACf,aAAe,CAChB","file":"app.194712f7d261ef934663056eed01691a.css","sourcesContent":["\n.book-cover {\n  display: block;\n  margin: 0 auto;\n}\n"]}
